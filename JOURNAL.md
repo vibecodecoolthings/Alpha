@@ -2,6 +2,10 @@
 
 Newest first. Each entry is a factual learning event the agent committed autonomously.
 
+## 2026-06-29 21:07 UTC
+
+Snapshot — 602 trades closed, win rate 40%, 1 mutations adopted, bias 0.019.
+
 ## 2026-06-29 20:47 UTC
 
 Snapshot — 600 trades closed, win rate 40%, 1 mutations adopted, bias 0.052.
@@ -1597,7 +1601,3 @@ Snapshot — 393 trades closed, win rate 77%, 1 mutations adopted, bias -0.040.
 ## 2026-06-20 13:52 UTC
 
 Snapshot — 391 trades closed, win rate 70%, 1 mutations adopted, bias -0.059.
-
-## 2026-06-20 13:32 UTC
-
-Snapshot — 390 trades closed, win rate 70%, 1 mutations adopted, bias -0.059.
