@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-12 20:19 UTC_
+_Last updated 2026-07-12 20:39 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-12 20:19 UTC_
 | Take profit | 30% |
 | Stop loss | -15% |
 | Risk per trade | 8% |
-| Adaptive bias | 0.006 |
+| Adaptive bias | 0.022 |
 
 ## Learning state
 
-- Closed trades: **557**
-- Win rate (last 30): **37%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **560**
+- Win rate (last 30): **40%**
+- Win / loss streak: **0** / **2**
 - Mutations adopted: **0**
-- SOL balance: **0.319**
-- Dominant emotions: anticipation 97, trust 80, joy 50
+- SOL balance: **0.309**
+- Dominant emotions: anticipation 99, trust 77, fear 56
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $pippin | +0.0% | 30m |
+| $SLTOSEM | -27.0% | 7m |
+| $febu | +35.0% | 29m |
 | $SLTOSEM | +40.0% | 12m |
 | $XGOATS | -18.0% | 27m |
 | $HOME | +8.0% | 30m |
-| $SLTOSEM | -27.0% | 12m |
-| $PumpfunLife | +4.0% | 31m |
-| $UNC | -22.0% | 3m |
